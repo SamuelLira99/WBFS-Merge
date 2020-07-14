@@ -1,0 +1,21 @@
+.layout {
+  -fx-background-image: url("/img/bg/LiraCLIUnixToolkit.jpg");
+  -fx-background-size: 100% 100%;
+}
+
+Label {
+  -fx-text-fill: #fff;
+}
+
+Button {
+  -fx-background-image: url("/img/btn/btnBg.png");
+  -fx-background-size: 100% 100%;
+  -fx-background-radius: 15px;
+  -fx-min-width: 150px;
+  -fx-min-height: 60px;
+
+}
+
+Button:hover {
+  -fx-cursor: hand;
+}

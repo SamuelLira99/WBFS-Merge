@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Samuel Lira
+Main-Class: br.com.slira.cliunixtoolkit.cliconversiontool.CLIConversionTool
